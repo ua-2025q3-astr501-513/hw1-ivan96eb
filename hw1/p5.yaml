@@ -38,9 +38,17 @@
 
 # TODO: Edit this sample idea.
 
-- topic: Numerical Linear Algebra
-  idea:  Develop a fast matrix multiplication algorithm to reduce
-         energy consumption during deep learning inference.
+- topic: ODE Integrators
+  idea:  Develop a code that solves the N-body problem. If time
+         allows, introduce cosmology dependence.
+- topic: Numerical and Automatic Derivatives
+  idea:  Develop a fast code that finds local minima of functions.
+         this can be done by implementing the gradient descent 
+         using automatic differentiation.
+- topic: Numerical Integration of Functions
+  idea:  Develop a fast algorithm that computes the lensing kernel 
+         of a source distribution (weak lensing). This is to compute convergence
+         maps from ray-traced N-body simulations in a fast way.
 
 # TODO: Add two more project ideas below, following the same format as
 # the example above.
